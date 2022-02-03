@@ -5,8 +5,8 @@
 
 ##### Module 1: User
 
--[x] Register User
--[x] Login User
+* Register User
+* Login User
 
 
 ##### Module 2: Tasks
