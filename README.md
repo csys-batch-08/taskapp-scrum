@@ -5,7 +5,7 @@
 
 ##### Module 1: User
 
-* Register User
+* Register User [COMPLETED]
 * Login User
 
 
